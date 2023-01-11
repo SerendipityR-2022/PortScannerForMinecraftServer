@@ -1,0 +1,2 @@
+# PortScannerForMinecraftServer
+针对大型群组服务器的子服端口扫描工具~
