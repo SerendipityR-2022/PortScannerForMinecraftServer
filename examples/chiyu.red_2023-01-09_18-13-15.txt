@@ -1,0 +1,28 @@
+MC | 222.187.232.74:1000 | 玩家: 1/50 | 样例: [{"name":"xL1n","id":"42eed93a-8802-3e14-926c-abc5e8b5f992"}] | 版本: NachoSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.232.74:2000 | 玩家: 2/100 | 样例: [{"name":"shuzia","id":"a1467c97-34da-39e0-87d6-f04b6c7f46eb"},{"name":"christi4nHD","id":"d76e8f7a-8e73-3171-9703-c3b83c8cfa41"}] | 版本: NachoSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+TCP | 222.187.232.74:1888
+MC | 222.187.232.74:3050 | 玩家: 8/80 | 样例: [{"name":"cfen__yyds","id":"c760be4d-2c2b-313e-9c34-1008917e252e"},{"name":"ImLingCheng","id":"66a61bb7-07e8-3dba-80bf-0a4c2b394ca6"},{"name":"youshangbest","id":"e2a0d153-281b-3cc8-b8ca-0eb33d166a81"},{"name":"Lettuceoa","id":"3e663de3-0ca8-3405-9127-38cbf786bea8"},{"name":"Xing_ShiL","id":"d71ebd6e-d839-31b1-bf05-ec35abb806f1"},{"name":"nichuonimane","id":"76ed31df-b7bb-3f02-a130-5fd9cb171a37"},{"name":"SCPLOVER","id":"e93859ca-c12d-338a-8e00-11f4f4ab35c6"},{"name":"453232116","id":"9fd1773f-7732-3689-b3d3-b5e7366c5172"}] | 版本: WindSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.232.74:3060 | 玩家: 0/100 | 版本: NachoSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.232.74:3070 | 玩家: 2/100 | 样例: [{"name":"E_Meng","id":"379db2fd-6122-30a7-9def-80d2898dd10b"},{"name":"xzjkshkl","id":"46c28284-094d-39ad-989b-90136643930f"}] | 版本: NachoSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.232.74:3080 | 玩家: 0/200 | 版本: PaperSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.232.74:3081 | 玩家: 0/70 | 版本: PaperSpigot 1.8.8 (47) | MOTD: WAITING
+MC | 222.187.232.74:3082 | 玩家: 0/70 | 版本: PaperSpigot 1.8.8 (47) | MOTD: WAITING
+MC | 222.187.232.74:3083 | 玩家: 0/70 | 版本: PaperSpigot 1.8.8 (47) | MOTD: WAITING
+MC | 222.187.232.74:3120 | 玩家: 0/100 | 版本: Paper 1.16.5 (47) | MOTD: {"text":"Arcade"}
+HTTP | 222.187.232.74:3306 | 状态码: -1
+MC | 222.187.232.74:4002 | 玩家: 3/200 | 样例: [{"name":"465965_","id":"c682d719-c0a1-387b-80a6-9a5a48f243ff"},{"name":"blHUaL","id":"0a33339e-880c-3ffa-ab67-8687ca6a01d0"},{"name":"Raklbod_Lisgh","id":"652d0fc6-d744-3b24-b89a-444d15dc2bf0"}] | 版本: Spigot 1.8.8 (47) | MOTD: 
+MC | 222.187.232.74:4004 | 玩家: 0/50 | 版本: Spigot 1.10.2 (47) | MOTD: {"text":"A Minecraft Server"}
+HTTP | 222.187.232.74:5985 | 状态码: 404
+MC | 222.187.232.74:20120 | 玩家: 0/50 | 版本: Spigot 1.10.2 (47) | MOTD: {"text":"A Minecraft Server"}
+MC | 222.187.232.74:25565 | 玩家: 44/-1 | 样例: [{"name":"§e§l? §6§l? §a§lSino§f§lwings §eNetwork §f- §c§l赤羽 §e§l? §6§l?","id":"aefa60ad-6dfc-3f1b-93e7-60515dfb4b07"},{"name":"","id":"d41d8cd9-8f00-3204-a980-0998ecf8427e"},{"name":"§f感谢您选择了我们，祝您游戏愉快","id":"e937fe73-3fe2-3e8d-b774-2442ddd40133"},{"name":"§f本服正搭建制作当中，如果您有好的意见请联系我们","id":"231632f3-7a60-3c3c-82df-2f57d6f5a79f"},{"name":"","id":"d41d8cd9-8f00-3204-a980-0998ecf8427e"},{"name":"§e交流①群: §6623799080","id":"b69c5a31-4f9a-33c1-954c-27e5c27b1623"}] | 版本: Sinowings Core (47) | MOTD: §f§e     §b§l? §a§lSino§f§lwings §eNetwork §f- §c§l赤羽  §7§l┆ §e§l? §6§l? §31.8 - 1.19 §e§l? §6§l?
+§f §7¤ §e我们陪你共度寒冬 §7§l┆ §b即将上线全新天坑乱斗 §7§l┆ §d§l新游戏内容§7 ¤
+HTTP | 222.187.232.74:47001 | 状态码: 404
+TCP | 222.187.232.74:49664
+TCP | 222.187.232.74:49666
+TCP | 222.187.232.74:49665
+TCP | 222.187.232.74:49667
+TCP | 222.187.232.74:49669
+TCP | 222.187.232.74:49668
+TCP | 222.187.232.74:49670
+TCP | 222.187.232.74:49672
+HTTP | 222.187.232.74:60000 | 状态码: 404

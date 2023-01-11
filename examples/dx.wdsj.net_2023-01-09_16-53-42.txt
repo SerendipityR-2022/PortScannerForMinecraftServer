@@ -1,0 +1,10 @@
+TCP | 43.241.50.233:20
+TCP | 43.241.50.233:81
+HTTP | 43.241.50.233:80 | 状态码: 404
+HTTP | 43.241.50.233:443 | 状态码: 404
+HTTP | 43.241.50.233:9092 | 状态码: 403
+MC | 43.241.50.233:25560 | 玩家: 0/-1 | 版本: Spigot 1.8.8 (47) | MOTD: §8? §e§l洛花星雨 MINECRAFT §6§lWdsj.net §b正版验证服
+ §7§l-> §a请先前往Wdsj.net输入/zb ms后再进行验证
+MC | 43.241.50.233:25565 | 玩家: 729/233333 | 样例: [{"name":"§c喵喵喵 - I18N 国际化支持","id":"af74a02d-19cb-445b-b07f-6866a861f783"}] | 版本: Wdsj-Proxy 1.8.x-1.19.x (47) | MOTD: {"extra":[{"text":" "},{"color":"dark_gray","text":"? "},{"color":"yellow","bold":true,"text":"洛花星雨 MINECRAFT(1.8-1.19) "},{"clickEvent":{"action":"open_url","value":"http://Wdsj.net"},"color":"gold","bold":true,"text":"Wdsj.net"},{"color":"gold","bold":true,"text":" "},{"color":"aqua","text":"情怀服"},{"color":"white","text":"\n "},{"color":"gray","bold":true,"text":"-> "},{"color":"green","text":"总有你所爱/半公益 "},{"color":"white","text":"|","obfuscated":true},{"color":"white","text":" "},{"color":"light_purple","text":"emmmmmmmmm "},{"color":"red","text":"REMAKING"}],"text":""}
+TCP | 43.241.50.233:51414
+HTTP | 43.241.50.233:60088 | 状态码: 200

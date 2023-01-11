@@ -1,0 +1,171 @@
+HTTP | 43.241.50.99:80 | 状态码: 301
+HTTP | 43.241.50.99:21 | 状态码: -1
+HTTP | 43.241.50.99:443 | 状态码: 404
+HTTP | 43.241.50.99:999 | 状态码: 400
+MC | 43.241.50.99:1038 | 玩家: 0/114514 | 样例: [{"name":"§a欢迎来到咸鱼村服务器§a!\n§e§l0 §a玩家在线","id":"00000000-0000-0000-0000-000000000000"}] | 版本: 超级无敌巨牛逼服务端 1.19.2 (760) | MOTD: {"extra":[{"color":"dark_aqua","underlined":false,"bold":false,"strikethrough":false,"text":"咸 ","italic":false,"obfuscated":false},{"color":"gold","text":"本是同根生，相煎何太急？\n","italic":false},{"color":"dark_aqua","text":"鱼","italic":false}],"text":""}
+MC | 43.241.50.99:1043 | 玩家: 0/6 | 版本: 1.19.2 (760) | MOTD: {"text":"Welcome to MapleStory"}
+MC | 43.241.50.99:1046 | 玩家: 0/10 | 版本: 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1045 | 玩家: 0/20 | 版本: 1.12.2 (340) | MOTD: {"translate":"A Minecraft Server"}
+MC | 43.241.50.99:1050 | 玩家: 0/20 | 版本: 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1057 | 玩家: 0/30 | 版本: Spigot 1.19 (759) | MOTD: {"extra":[{"text":"MC Summer Team"}],"text":""}
+MC | 43.241.50.99:1054 | 玩家: 0/20 | 版本: Spigot 1.16.5 (754) | MOTD: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+MC | 43.241.50.99:1052 | 玩家: 0/20 | 版本: Paper 1.19.2 (760) | MOTD: {"text":""}
+MC | 43.241.50.99:1051 | 玩家: 1/50 | 样例: [{"name":"Andrew","id":"e3b5e958-66d0-3326-b46f-86f10441d740"}] | 版本: 1.12.2 (340) | MOTD: {"translate":"A Minecraft Server"}
+MC | 43.241.50.99:1058 | 玩家: 2/20 | 样例: [{"name":"2","id":"2bb3e52e-aa39-3e56-b9cd-19d6fd970a24"},{"name":"1","id":"15468a55-d663-3077-a691-aed0be0ffacf"}] | 版本: 1.18.2 (758) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1060 | 玩家: 0/20 | 版本: 1.15.2 (578) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1074 | 玩家: 0/100 | 版本: Paper 1.19.2 (760) | MOTD: {"text":"huan wu zhi meng"}
+MC | 43.241.50.99:1077 | 玩家: 0/114514 | 版本: Paper 1.19.2 (760) | MOTD: {"extra":[{"color":"black","bold":true,"text":"-"},{"color":"black","bold":true,"text":"-"},{"color":"dark_gray","bold":true,"text":"-"},{"color":"dark_gray","bold":true,"text":"-"},{"color":"dark_gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"white","bold":true,"text":"["},{"bold":true,"text":" "},{"color":"green","bold":true,"text":"摸"},{"bold":true,"text":" "},{"color":"green","bold":true,"text":"鱼"},{"bold":true,"text":" "},{"color":"green","bold":true,"text":"生"},{"bold":true,"text":" "},{"color":"green","bold":true,"text":"存"},{"bold":true,"text":"  "},{"color":"red","bold":true,"text":"服"},{"color":"red","bold":true,"text":"务"},{"color":"yellow","bold":true,"text":"器"},{"bold":true,"text":" "},{"color":"white","bold":true,"text":"]"},{"color":"white","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"dark_gray","bold":true,"text":"-"},{"color":"dark_gray","bold":true,"text":"-"},{"color":"dark_gray","bold":true,"text":"-"},{"color":"black","bold":true,"text":"-"},{"extra":[{"bold":true,"text":"    "}],"text":"\n"},{"color":"yellow","bold":true,"text":"官"},{"color":"yellow","bold":true,"text":"网"},{"color":"yellow","bold":true,"text":"："},{"color":"yellow","bold":true,"text":"w","italic":true},{"color":"yellow","bold":true,"text":"w","italic":true},{"color":"yellow","bold":true,"text":"w","italic":true},{"color":"yellow","bold":true,"text":".","italic":true},{"color":"yellow","bold":true,"text":"m","italic":true},{"color":"yellow","bold":true,"text":"c","italic":true},{"color":"yellow","bold":true,"text":"b","italic":true},{"color":"yellow","bold":true,"text":"b","italic":true},{"color":"yellow","bold":true,"text":"s","italic":true},{"color":"yellow","bold":true,"text":".","italic":true},{"color":"yellow","bold":true,"text":"c","italic":true},{"color":"yellow","bold":true,"text":"o","italic":true},{"color":"yellow","bold":true,"text":"m","italic":true},{"bold":true,"text":"    "},{"color":"dark_aqua","bold":true,"text":"Q群： "},{"color":"aqua","bold":true,"text":"*","italic":true},{"color":"aqua","bold":true,"text":"*","italic":true},{"color":"aqua","bold":true,"text":"*","italic":true},{"color":"aqua","bold":true,"text":"*","italic":true},{"color":"blue","bold":true,"text":"*","italic":true},{"color":"blue","bold":true,"text":"*","italic":true},{"color":"blue","bold":true,"text":"*","italic":true}],"text":""}
+MC | 43.241.50.99:1078 | 玩家: 0/3 | 版本: 1.18.2 (758) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1086 | 玩家: 0/20 | 版本: 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1087 | 玩家: 0/20 | 版本: Pufferfish 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1088 | 玩家: 3/50 | 样例: [{"name":"Pullen_Chen","id":"126b159d-3fed-4f48-8e5a-fa976a56d47e"},{"name":"XiaoYing2016","id":"d1f485b8-7127-4e87-a912-fbc7f246836b"},{"name":"IronMan","id":"f8dbbe70-0b77-44ab-8898-fe718ac81d50"}] | 版本: 1.19.3 (761) | MOTD: {"text":""}
+MC | 43.241.50.99:1090 | 玩家: 0/10 | 版本: 1.19.1 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1092 | 玩家: 0/18 | 版本: Spigot 1.19 (759) | MOTD: {"extra":[{"text":"java_PE_luck"}],"text":""}
+MC | 43.241.50.99:1094 | 玩家: 0/120 | 版本: 1.18.2 (758) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1095 | 玩家: 0/10 | 版本: 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1093 | 玩家: 0/4 | 版本: 1.12.2 (340) | MOTD: {"text":"Parasites Blood Dawn Server"}
+TCP | 43.241.50.99:1097
+MC | 43.241.50.99:1099 | 玩家: 0/20 | 版本: 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1100 | 玩家: 0/20 | 版本: Pufferfish 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1101 | 玩家: 0/20 | 版本: Purpur 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1104 | 玩家: 0/100 | 版本: Paper 1.19.2 (760) | MOTD: {"extra":[{"color":"aqua","text":"NVMT Games Server \n"},{"color":"yellow","text":"欢迎来到NVMT Games Server!"}],"text":""}
+MC | 43.241.50.99:1105 | 玩家: 0/20 | 版本: Paper 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:1107 | 玩家: 0/2023 | 版本: Paper 1.19.3 (761) | MOTD: {"text":"Welcome to Seven Sea town! QQGroup:789410780"}
+MC | 43.241.50.99:1112 | 玩家: 3/10 | 样例: [{"name":"6","id":"e23e3ad2-2a90-33d6-9d94-204200b75fe9"},{"name":"SaraQ_awa","id":"e9992066-3fdc-3838-8b96-beef52ed7065"},{"name":"dreams-fan","id":"5c4d07d8-55c3-3ad6-8f9e-2f05fdf54f20"}] | 版本: Spigot 1.16.5 (754) | MOTD: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+MC | 43.241.50.99:1110 | 玩家: 0/10 | 版本: 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+TCP | 43.241.50.99:3000
+HTTP | 43.241.50.99:8000 | 状态码: 200
+HTTP | 43.241.50.99:9999 | 状态码: 200
+HTTP | 43.241.50.99:10012 | 状态码: -1
+HTTP | 43.241.50.99:10011 | 状态码: -1
+HTTP | 43.241.50.99:10010 | 状态码: -1
+HTTP | 43.241.50.99:10014 | 状态码: -1
+HTTP | 43.241.50.99:10015 | 状态码: -1
+HTTP | 43.241.50.99:10013 | 状态码: -1
+TCP | 43.241.50.99:14333
+HTTP | 43.241.50.99:17010 | 状态码: 301
+HTTP | 43.241.50.99:17009 | 状态码: 301
+HTTP | 43.241.50.99:20141 | 状态码: -1
+HTTP | 43.241.50.99:20142 | 状态码: -1
+HTTP | 43.241.50.99:20147 | 状态码: 200
+TCP | 43.241.50.99:20150
+HTTP | 43.241.50.99:20149 | 状态码: 200
+HTTP | 43.241.50.99:26018 | 状态码: 200
+HTTP | 43.241.50.99:26019 | 状态码: 200
+MC | 43.241.50.99:26017 | 玩家: 1/50 | 样例: [{"name":"TheDawn","id":"49a815c1-fb7b-3465-a020-3869715f8825"}] | 版本: 1.7.10 (5) | MOTD: Land of Origins Minecraft Server
+MC | 43.241.50.99:26099 | 玩家: 1/10 | 样例: [{"name":"Alex","id":"ec561538-f3fd-461d-aff5-086b22154bce"}] | 版本: 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+MC | 43.241.50.99:26133 | 玩家: 0/20 | 版本: Spigot 1.19.3 (761) | MOTD: {"extra":[{"text":"A Minecraft Server"}],"text":""}
+TCP | 43.241.50.99:26010
+HTTP | 43.241.50.99:26314 | 状态码: -1
+TCP | 43.241.50.99:26090
+TCP | 43.241.50.99:26339
+TCP | 43.241.50.99:26130
+HTTP | 43.241.50.99:26382 | 状态码: -1
+MC | 43.241.50.99:26393 | 玩家: 0/20 | 版本: 1.16.5 (754) | MOTD: {"text":"A Minecraft Server"}
+TCP | 43.241.50.99:26415
+TCP | 43.241.50.99:26330
+HTTP | 43.241.50.99:26333 | 状态码: 404
+HTTP | 43.241.50.99:26441 | 状态码: -1
+MC | 43.241.50.99:26447 | 玩家: 0/114514 | 版本: 1.19.3 (761) | MOTD: {"text":"XQZG Server-MOD"}
+MC | 43.241.50.99:26463 | 玩家: 2/1000 | 样例: [{"name":"§c§l麦麦粉丝服 §r§f§l服务器消息","id":"00000000-0000-0000-0000-000000000000"},{"name":"§7§m----------","id":"00000000-0000-0000-0000-000000000000"},{"name":"","id":"00000000-0000-0000-0000-000000000000"},{"name":"§b§l当前在线人数: §r§f§l1000","id":"00000000-0000-0000-0000-000000000000"},{"name":"§b§l最大在线人数： §r§f§l1000","id":"00000000-0000-0000-0000-000000000000"},{"name":"","id":"00000000-0000-0000-0000-000000000000"},{"name":"§3粉丝群！ §7§l§o742747435","id":"00000000-0000-0000-0000-000000000000"},{"name":"","id":"00000000-0000-0000-0000-000000000000"},{"name":"§7§m----------","id":"00000000-0000-0000-0000-000000000000"},{"name":"当前玩家：","id":"00000000-0000-0000-0000-000000000000"},{"name":"草方块","id":"00000000-0000-0000-0000-000000000000"},{"name":"泥土块","id":"00000000-0000-0000-0000-000000000000"},{"name":"下界合金块","id":"00000000-0000-0000-0000-000000000000"},{"name":"钻石块","id":"00000000-0000-0000-0000-000000000000"}] | 版本: §f§eConnect §a>§b>§c>                                                   §a§lJOIN! §r§6§l[§r§c§l1000§r§7/§c§l1000§r§6§l] (-1) | MOTD: {"extra":[{"color":"red","bold":true,"text":"服务器版本 "},{"color":"gray","bold":true,"text":"|"},{"color":"white","text":" "},{"color":"aqua","text":"1.8-1.19.x "},{"color":"gray","bold":true,"text":"| "},{"color":"gold","bold":true,"text":"麦麦的粉丝服\n"},{"color":"gray","bold":true,"text":">"},{"color":"white","bold":true,"text":" Supports "},{"color":"dark_red","bold":true,"text":"random lines"},{"color":"white","text":" "},{"color":"white","bold":true,"text":"function!"}],"text":""}
+MC | 43.241.50.99:26477 | 玩家: 1/20 | 样例: [{"name":"Ming_lan","id":"ea207df2-512e-3761-8fcd-a0047df7d959"}] | 版本: 1.16.5 (754) | MOTD: {"text":"rua"}
+TCP | 43.241.50.99:26310
+TCP | 43.241.50.99:26350
+MC | 43.241.50.99:26493 | 玩家: 3/16 | 样例: [{"name":"chen_1335","id":"3a81b0b6-f3fb-425e-afff-0a1930e02f0a"},{"name":"6665723","id":"6bc285d4-d71c-495c-b008-088c2700ad28"},{"name":"Randbug","id":"80403ff5-7f88-44fa-a936-dabacd49dbd5"}] | 版本: Spigot 1.18.2 (47) | MOTD: {"extra":[{"color":"gold","underlined":false,"bold":true,"strikethrough":false,"text":"JK's","italic":false,"obfuscated":false},{"color":"yellow","underlined":false,"bold":true,"strikethrough":false,"text":"魔改","italic":false,"obfuscated":false},{"color":"blue","underlined":false,"bold":true,"strikethrough":false,"text":"竞技场 ","italic":false,"obfuscated":false},{"color":"white","underlined":false,"bold":false,"strikethrough":false,"text":"v2.8 ","italic":false,"obfuscated":false},{"color":"yellow","underlined":false,"bold":true,"strikethrough":false,"text":"元旦快乐！","italic":false,"obfuscated":false}],"text":""}
+TCP | 43.241.50.99:26440
+TCP | 43.241.50.99:26360
+HTTP | 43.241.50.99:26452 | 状态码: -1
+MC | 43.241.50.99:26505 | 玩家: 2/70 | 样例: [{"name":"Aaa_a","id":"dab0c3a1-1c80-3a25-bf57-cf64bc4a703b"},{"name":"xhzc666","id":"69e6dec6-166c-35bd-a0c0-f925897167b1"}] | 版本: [§22§d/§b70, §b2§d/§270] (-1) | MOTD: {"extra":[{"color":"aqua","text":"海岸物语CoastCraft 经济二服- 天水碧,染就一江秋色"},{"text":"\n"},{"color":"light_purple","text":"现在时间: "},{"color":"yellow","text":"2023-01-09 10:29:41"}],"text":""}
+HTTP | 43.241.50.99:26514 | 状态码: 200
+HTTP | 43.241.50.99:26515 | 状态码: 200
+TCP | 43.241.50.99:26390
+TCP | 43.241.50.99:26400
+MC | 43.241.50.99:26529 | 玩家: 1/10 | 样例: [{"name":"KhaoSliver","id":"f5e46038-f338-3f15-b78a-df9f1857fa63"}] | 版本: 1.7.10 (5) | MOTD: 新世纪 魔法金属生存 1.7.10
+TCP | 43.241.50.99:26410
+MC | 43.241.50.99:26533 | 玩家: 0/50 | 版本: Paper 1.19.2 (760) | MOTD: {"text":"??????à?à?à???~"}
+TCP | 43.241.50.99:26420
+MC | 43.241.50.99:26543 | 玩家: 0/20 | 版本: 1.16.5 (754) | MOTD: {"text":"A Minecraft Server"}
+TCP | 43.241.50.99:26500
+MC | 43.241.50.99:26566 | 玩家: 0/50 | 版本: Pufferfish 1.19.2 (760) | MOTD: {"text":"A Minecraft Server"}
+TCP | 43.241.50.99:26460
+HTTP | 43.241.50.99:26512 | 状态码: -1
+HTTP | 43.241.50.99:26513 | 状态码: 200
+TCP | 43.241.50.99:26470
+TCP | 43.241.50.99:26480
+MC | 43.241.50.99:26616 | 玩家: 0/100 | 版本: Paper 1.16.5 (754) | MOTD: {"extra":[{"text":"                   "},{"color":"gold","bold":true,"text":"?  "},{"color":"gold","bold":true,"text":"Lost "},{"color":"yellow","bold":true,"text":"WonderLand  "},{"color":"yellow","bold":true,"text":"?\n              "},{"color":"dark_gray","bold":true,"text":"〔  "},{"color":"white","bold":true,"text":"1.16.x  "},{"color":"dark_gray","bold":true,"text":"? "},{"color":"white","bold":true,"text":"生存+RPG "},{"color":"dark_gray","bold":true,"text":"〕"}],"text":""}
+TCP | 43.241.50.99:26490
+HTTP | 43.241.50.99:26628 | 状态码: 200
+TCP | 43.241.50.99:26520
+TCP | 43.241.50.99:26530
+TCP | 43.241.50.99:26540
+TCP | 43.241.50.99:26610
+TCP | 43.241.50.99:26620
+TCP | 43.241.50.99:26560
+TCP | 43.241.50.99:26570
+MC | 43.241.50.99:30093 | 玩家: 7/2023 | 样例: [{"name":"chitu_rui","id":"55b76e09-10aa-3fd1-b3eb-7ce3b86c7f24"},{"name":"bei_mo","id":"cbbd0755-4d93-38f1-a058-abdabe699203"},{"name":"34231313","id":"74c92881-664a-303b-b656-151776d3b6cd"},{"name":"BroadMitten4368","id":"eb0505fc-fd5a-373e-bf17-9aabd429b887"},{"name":"MovingBox111","id":"0a3025be-173c-34a0-889d-20089018da43"},{"name":"JINI123","id":"76f5b06d-4d94-3cae-a5d7-b480597c195d"},{"name":"chen_mo","id":"6f73dac8-b8a1-3cbc-83e4-00cd8e274e1b"}] | 版本: Paper 1.19.2 (760) | MOTD: {"extra":[{"color":"black","bold":true,"text":"-"},{"color":"black","bold":true,"text":"-"},{"color":"dark_gray","bold":true,"text":"-"},{"color":"dark_gray","bold":true,"text":"-"},{"color":"dark_gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"white","bold":true,"text":"["},{"bold":true,"text":" "},{"color":"green","bold":true,"text":"欢"},{"color":"green","bold":true,"text":"迎"},{"color":"green","bold":true,"text":"来"},{"color":"green","bold":true,"text":"到"},{"color":"green","bold":true,"text":"E"},{"color":"green","bold":true,"text":"S"},{"color":"green","bold":true,"text":"P"},{"color":"green","bold":true,"text":"-"},{"color":"green","bold":true,"text":"S"},{"color":"green","bold":true,"text":"e"},{"color":"aqua","bold":true,"text":"r"},{"color":"aqua","bold":true,"text":"v"},{"color":"aqua","bold":true,"text":"e"},{"color":"aqua","bold":true,"text":"r"},{"bold":true,"text":"  "},{"color":"red","bold":true,"text":"服"},{"color":"red","bold":true,"text":"务"},{"color":"yellow","bold":true,"text":"器"},{"bold":true,"text":" "},{"color":"white","bold":true,"text":"]"},{"color":"white","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"gray","bold":true,"text":"="},{"color":"dark_gray","bold":true,"text":"-"},{"color":"dark_gray","bold":true,"text":"-"},{"color":"dark_gray","bold":true,"text":"-"},{"color":"black","bold":true,"text":"-"},{"extra":[{"bold":true,"text":"    "}],"text":"\n"},{"color":"yellow","bold":true,"text":"生"},{"color":"yellow","bold":true,"text":"存"},{"color":"yellow","bold":true,"text":"服"},{"color":"yellow","bold":true,"text":"："},{"color":"yellow","bold":true,"text":"纯","italic":true},{"color":"yellow","bold":true,"text":"净","italic":true},{"color":"yellow","bold":true,"text":"玩","italic":true},{"color":"yellow","bold":true,"text":"法","italic":true},{"bold":true,"text":"    "},{"color":"dark_aqua","bold":true,"text":"Q群： "},{"color":"aqua","bold":true,"text":"7","italic":true},{"color":"aqua","bold":true,"text":"5","italic":true},{"color":"aqua","bold":true,"text":"4","italic":true},{"color":"aqua","bold":true,"text":"8","italic":true},{"color":"aqua","bold":true,"text":"2","italic":true},{"color":"blue","bold":true,"text":"1","italic":true},{"color":"blue","bold":true,"text":"2","italic":true},{"color":"blue","bold":true,"text":"9","italic":true},{"color":"blue","bold":true,"text":"2","italic":true}],"text":""}
+HTTP | 43.241.50.99:30137 | 状态码: 200
+HTTP | 43.241.50.99:30138 | 状态码: 200
+MC | 43.241.50.99:30248 | 玩家: 0/10 | 版本: 1.16.5 (754) | MOTD: {"text":"Server Of LiTiansuo"}
+MC | 43.241.50.99:30293 | 玩家: 142/2023 | 版本:  (47) | MOTD: {"extra":[{"text":"         "},{"color":"white","strikethrough":true,"text":"--"},{"color":"gray","strikethrough":true,"text":"--"},{"color":"dark_gray","strikethrough":true,"text":"[-"},{"color":"white","text":" "},{"color":"yellow","bold":true,"text":"Cl"},{"color":"gold","bold":true,"text":"ou"},{"color":"red","bold":true,"text":"d "},{"color":"aqua","bold":true,"text":"Network "},{"color":"dark_gray","strikethrough":true,"text":"-]"},{"color":"gray","strikethrough":true,"text":"--"},{"color":"white","strikethrough":true,"text":"--\n"},{"color":"dark_gray","bold":true,"text":"        "},{"color":"white","bold":true,"text":"? "},{"color":"yellow","bold":true,"text":"假日活动更新 "},{"color":"white","bold":true,"text":"恢复运营 "},{"color":"aqua","bold":true,"text":"NEW! "},{"color":"white","bold":true,"text":"?"}],"text":""}
+MC | 43.241.50.99:30303 | 玩家: 5/0 | 样例: [{"name":"§c§m   §6§m   §e§m   §a§m   §b§m   §e§m  §b§m   §a§m   §e§m   §6§m   §c§m   ","id":"b02da5a3-1180-3fe2-b174-590029222002"},{"name":"§b§l这里永远是你的疯狂的释放点","id":"f35d8d0a-3a0c-3592-8b91-0b17b4b426be"},{"name":"§b────────────────────","id":"616fe3be-3e45-3b5c-9d4a-19d42247b345"},{"name":"§f§l>§b§l欢迎来到 §c§l“ CrazyLands ” §b§l服务器§f§l","id":"e954a79b-85a4-3aff-832b-032cddb2735f"},{"name":"§a§l服务器QQ群§f§l: §c§l389325267","id":"41683442-5f94-3364-970b-07033d25b7b0"},{"name":"§6§l服务器网站§f§l: §e§l§nhttp://www.fengkland.top/！","id":"623b8bdb-3a71-3da3-b80e-b7161f512c78"},{"name":"§b────────────────────","id":"616fe3be-3e45-3b5c-9d4a-19d42247b345"},{"name":"§c§l抵制不良游戏，拒绝盗版游戏。","id":"38458331-ddfb-3818-91db-51ea8587b0a1"},{"name":"§c§l注意自我保护，谨防上当受骗。","id":"522d15dd-ba4a-39ab-a027-b528a376d6d7"},{"name":"§c§l适度游戏益脑，沉迷游戏伤身。","id":"f65a4fc4-423d-35fd-9f9f-ae3904c004b0"},{"name":"§c§l合理安排时间，享受健康生活。","id":"2c13d1f9-ddd8-3dd3-b752-1991d85dec74"},{"name":"§b────────────────────","id":"616fe3be-3e45-3b5c-9d4a-19d42247b345"},{"name":"§c§m   §6§m   §e§m   §a§m   §b§m   §e§m  §b§m   §a§m   §e§m   §6§m   §c§m   ","id":"b02da5a3-1180-3fe2-b174-590029222002"}] | 版本: §c5§8/§72023 (-1) | MOTD: {"extra":[{"color":"dark_gray","bold":true,"strikethrough":true,"text":"-]"},{"color":"gray","strikethrough":true,"text":"=="},{"color":"white","strikethrough":true,"text":"=="},{"color":"white","text":"  "},{"color":"dark_red","bold":true,"text":"疯狂"},{"color":"red","bold":true,"text":"之地"},{"color":"white","text":" "},{"color":"blue","bold":true,"text":"『"},{"color":"gray","text":"1.7-1.19"},{"color":"blue","bold":true,"text":"』 "},{"color":"white","bold":true,"text":"|  "},{"color":"red","bold":true,"text":"Crazy ","italic":true},{"color":"green","text":"& "},{"color":"aqua","bold":true,"text":"Lands ","italic":true},{"color":"gold","bold":true,"text":"?"},{"color":"white","text":"\n"},{"color":"white","text":" "},{"color":"white","bold":true,"text":"|","obfuscated":true},{"color":"white","text":" "},{"color":"dark_gray","bold":true,"text":"Let’s ","italic":true},{"color":"gray","bold":true,"text":"have ","italic":true},{"color":"dark_gray","bold":true,"text":"a ","italic":true},{"color":"gray","bold":true,"text":"good ","italic":true},{"color":"dark_gray","bold":true,"text":"fight ","italic":true},{"color":"gray","bold":true,"text":"! "},{"color":"white","bold":true,"text":"?? "},{"color":"dark_red","bold":true,"text":" "},{"color":"gray","bold":true,"text":"1","obfuscated":true},{"color":"white","text":" "},{"color":"red","bold":true,"text":"新年快乐! "},{"color":"gray","bold":true,"text":"1","obfuscated":true},{"color":"white","text":""}],"text":""}
+MC | 43.241.50.99:30305 | 玩家: 4/50 | 样例: [{"name":"liuniana","id":"5f8dfb7a-999a-3cba-be8b-0b9937830984"},{"name":"yao_chen","id":"2da794e8-d4db-3384-a58d-86f24660e1fd"},{"name":"yvren","id":"3f277c13-a21c-3ef4-b051-84a00a03fcaa"},{"name":"Plover","id":"9149720c-47c0-3c03-a58f-cda9ed1d964d"}] | 版本: 1.7.10 (5) | MOTD: 新世纪 魔法金属生存 1.7.10
+TCP | 43.241.50.99:30190
+TCP | 43.241.50.99:30090
+TCP | 43.241.50.99:30335
+MC | 43.241.50.99:30345 | 玩家: 2/100 | 样例: [{"name":"§7Custom Hover","id":"00000000-0000-0000-0000-000000000000"},{"name":"§8Players Online: §a4","id":"00000000-0000-0000-0000-000000000000"},{"name":"§7- §aBE_SouthNight974","id":"00000000-0000-0000-0000-000000000000"},{"name":"§7- §aBE_Mei1673","id":"00000000-0000-0000-0000-000000000000"},{"name":"§7- §aBE_XuanDiNa","id":"00000000-0000-0000-0000-000000000000"},{"name":"§7- §aCCawa","id":"00000000-0000-0000-0000-000000000000"}] | 版本: PixelMOTD System (47) | MOTD: {"extra":[{"text":"§aThis is the default motd\n§7You can modify it from motds.yml"}],"text":""}
+HTTP | 43.241.50.99:30351 | 状态码: -1
+TCP | 43.241.50.99:30130
+TCP | 43.241.50.99:30300
+MC | 43.241.50.99:30376 | 玩家: 5/100 | 版本: Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x (47) | MOTD: {"extra":[{"extra":[{"color":"green","bold":true,"text":"╔════════"},{"text":" "},{"color":"red","extra":[{"bold":true,"text":"The Pink Tree"},{"text":" "},{"color":"green","bold":true,"text":"═══════╗"}],"text":""}],"text":""},{"text":"\n"},{"extra":[{"color":"green","bold":true,"text":"╚═══════"},{"text":" "},{"extra":[{"color":"gold","text":"世"},{"color":"gold","text":"界"},{"color":"green","text":"的"},{"color":"green","text":"奥"},{"color":"dark_aqua","text":"秘"},{"color":"dark_aqua","text":"将"},{"color":"blue","text":"由"},{"color":"blue","text":"你"},{"color":"dark_purple","text":"来"},{"color":"dark_purple","text":"解"},{"color":"red","text":"开"}],"bold":true,"text":""},{"text":" "},{"color":"green","bold":true,"text":"══════╝"}],"text":""}],"text":""}
+TCP | 43.241.50.99:30330
+HTTP | 43.241.50.99:30338 | 状态码: 403
+HTTP | 43.241.50.99:30339 | 状态码: 403
+TCP | 43.241.50.99:30340
+TCP | 43.241.50.99:30240
+HTTP | 43.241.50.99:30346 | 状态码: 404
+TCP | 43.241.50.99:30290
+TCP | 43.241.50.99:30370
+HTTP | 43.241.50.99:30382 | 状态码: -1
+TCP | 43.241.50.99:30320
+TCP | 43.241.50.99:30350
+TCP | 43.241.50.99:30390
+TCP | 43.241.50.99:30400
+TCP | 43.241.50.99:33857
+TCP | 43.241.50.99:33864
+TCP | 43.241.50.99:33862
+TCP | 43.241.50.99:33861
+TCP | 43.241.50.99:33860
+TCP | 43.241.50.99:33858
+TCP | 43.241.50.99:33859
+TCP | 43.241.50.99:33871
+TCP | 43.241.50.99:33870
+TCP | 43.241.50.99:33863
+TCP | 43.241.50.99:33868
+TCP | 43.241.50.99:33867
+TCP | 43.241.50.99:33869
+TCP | 43.241.50.99:33866
+TCP | 43.241.50.99:33872
+TCP | 43.241.50.99:33878
+TCP | 43.241.50.99:33874
+TCP | 43.241.50.99:33873
+TCP | 43.241.50.99:33876
+TCP | 43.241.50.99:33877
+TCP | 43.241.50.99:33875
+TCP | 43.241.50.99:33881
+TCP | 43.241.50.99:33880
+TCP | 43.241.50.99:33879
+TCP | 43.241.50.99:33865
+TCP | 43.241.50.99:33885
+TCP | 43.241.50.99:33884
+TCP | 43.241.50.99:33886
+TCP | 43.241.50.99:33893
+TCP | 43.241.50.99:33892
+TCP | 43.241.50.99:33894
+TCP | 43.241.50.99:33895
+TCP | 43.241.50.99:33891
+TCP | 43.241.50.99:33883
+TCP | 43.241.50.99:33882
+TCP | 43.241.50.99:33888
+TCP | 43.241.50.99:33889
+TCP | 43.241.50.99:33890
+TCP | 43.241.50.99:33887

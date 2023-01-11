@@ -1,0 +1,16 @@
+MC | 202.189.7.126:1045 | 玩家: 6/2023 | 样例: [{"name":"§a---§6§l维度战记§7§l - §f§lFutureWars§a---","id":"27226a04-fe50-3204-b73d-d8923e126294"}] | 版本: §76§b/§72023 (-1) | MOTD: {"text":"               §a§l维度战记 §f§l- §f§lFutureWars §7 \n           §f§l|§6§l游戏快乐§f§l|     §c§l第七维度§7      全新玩法 正式加入"}
+MC | 202.189.7.126:1063 | 玩家: 0/20 | 版本: Purpur 1.19.2 (760) | MOTD: {"extra":[{"color":"#d19592","bold":true,"text":"HYRONIC SURVIVAL "},{"color":"white","text":"? "},{"color":"#ffcfdf","text":"[ ????? ??????? ]\n   "},{"color":"#fe7bb0","text":"★ RPG Elements "},{"color":"white","text":"| "},{"color":"#864ba2","text":"? Skills Grinding "},{"color":"white","text":"| "},{"color":"#fc9842","text":"? Dungeons"}],"text":"      "}
+TCP | 202.189.7.126:1023
+TCP | 202.189.7.126:1024
+TCP | 202.189.7.126:1041
+TCP | 202.189.7.126:1044
+TCP | 202.189.7.126:1050
+TCP | 202.189.7.126:1055
+TCP | 202.189.7.126:1051
+TCP | 202.189.7.126:1052
+TCP | 202.189.7.126:1062
+MC | 202.189.7.126:1415 | 玩家: 0/2020 | 样例: [{"name":"轻枫宝可梦欢迎您~","id":"3fcae2c5-c80b-322d-94b8-b3eaf80c1201"}] | 版本: 1.12.2 (340) | MOTD: {"text":"             §f§k|§f §a§l轻枫宝可梦 §f| §b§l宝可梦创新化 §f| §6§l宝可梦 §f§k|§f\n§f     §7> §f我们致力用心于制作§c中国版§a精致/优秀§f的§b宝可梦§3服务器 §7<"}
+HTTP | 202.189.7.126:3301 | 状态码: 200
+MC | 202.189.7.126:10011 | 玩家: 41/5000 | 版本: kCore 1.7.x-1.8.x (47) | MOTD: {"extra":[{"color":"white","text":"  "},{"color":"dark_aqua","strikethrough":true,"text":"---"},{"color":"aqua","strikethrough":true,"text":"---"},{"color":"white","strikethrough":true,"text":"---"},{"color":"gray","strikethrough":true,"text":"---"},{"color":"white","text":" "},{"color":"aqua","text":"The Kazer Network "},{"color":"gray","strikethrough":true,"text":"---"},{"color":"white","strikethrough":true,"text":"---"},{"color":"aqua","strikethrough":true,"text":"---"},{"color":"dark_aqua","strikethrough":true,"text":"---\n"},{"color":"white","text":"   "},{"color":"gold","bold":true,"text":"HAPPY NEW YEAR "},{"color":"white","text":"Season #10 "},{"color":"yellow","text":"Practice Update"}],"text":""}
+TCP | 202.189.7.126:10010
+TCP | 202.189.7.126:44567

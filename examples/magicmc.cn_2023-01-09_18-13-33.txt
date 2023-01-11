@@ -1,0 +1,26 @@
+MC | 202.189.7.117:15 | Íæ¼Ò: 0/100 | °æ±¾: Spigot 1.8.8 (47) | MOTD: Magicmc Network PUBG MiniGame Test Server.
+MC | 202.189.7.117:13 | Íæ¼Ò: 0/150 | °æ±¾: PaperSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 202.189.7.117:16 | Íæ¼Ò: 0/20 | °æ±¾: Spigot 1.8.8 (47) | MOTD: A Minecraft Server
+HTTP | 202.189.7.117:21 | ×´Ì¬Âë: -1
+MC | 202.189.7.117:20 | Íæ¼Ò: 0/2022 | °æ±¾: Spigot 1.8.8 (47) | MOTD: A Minecraft Server
+HTTP | 202.189.7.117:80 | ×´Ì¬Âë: 200
+HTTP | 202.189.7.117:143 | ×´Ì¬Âë: -1
+HTTP | 202.189.7.117:22 | ×´Ì¬Âë: -1
+HTTP | 202.189.7.117:25 | ×´Ì¬Âë: -1
+HTTP | 202.189.7.117:110 | ×´Ì¬Âë: -1
+MC | 202.189.7.117:256 | Íæ¼Ò: 0/20 | °æ±¾: Spigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 202.189.7.117:255 | Íæ¼Ò: 0/20 | °æ±¾: Mohist 1.12.2 (340) | MOTD: {"text":"A Minecraft Server"}
+HTTP | 202.189.7.117:465 | ×´Ì¬Âë: -1
+HTTP | 202.189.7.117:587 | ×´Ì¬Âë: -1
+HTTP | 202.189.7.117:888 | ×´Ì¬Âë: 403
+TCP | 202.189.7.117:993
+TCP | 202.189.7.117:995
+MC | 202.189.7.117:1000 | Íæ¼Ò: 0/2022 | °æ±¾: Waterfall nmsl (47) | MOTD: {"extra":[{"color":"dark_blue","text":"Just another Waterfall - Forced Host"}],"text":""}
+MC | 202.189.7.117:1001 | Íæ¼Ò: 0/20 | °æ±¾: Spigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 202.189.7.117:1145 | Íæ¼Ò: 0/4 | °æ±¾: Mohist 1.12.2 (340) | MOTD: {"text":"A Minecraft Server"}
+TCP | 202.189.7.117:1937
+HTTP | 202.189.7.117:3306 | ×´Ì¬Âë: -1
+HTTP | 202.189.7.117:23333 | ×´Ì¬Âë: 200
+HTTP | 202.189.7.117:24444 | ×´Ì¬Âë: 200
+MC | 202.189.7.117:25565 | Íæ¼Ò: 7/2023 | °æ±¾: MagicMC 1.8-1.19 (47) | MOTD: {"extra":[{"extra":[{"color":"green","text":"Magic"},{"color":"white","text":"MC "},{"color":"dark_gray","text":"- "},{"color":"green","bold":true,"text":"ÏñËØ"},{"color":"white","bold":true,"text":"Íõ¹ú "},{"color":"gray","text":"? "},{"color":"white","text":"1.8 - 1.19 \n    "},{"color":"gray","text":"? "},{"color":"light_purple","text":"Èº×é·þ "},{"color":"dark_gray","text":"; "},{"color":"aqua","text":"»¢Ð¥¾ÅÖÝÕ¹ÐÛ×Ë ","italic":true},{"color":"white","text":"ÓñÍÃÐ¯´ºÓÖÓ­ÐÂ ","italic":true},{"color":"dark_gray","text":"; "},{"color":"red","bold":true,"text":"ÐÂÄê¿ìÀÖ"}],"text":"           "}],"text":""}
+TCP | 202.189.7.117:29944

@@ -1,0 +1,49 @@
+MC | 222.187.227.112:101 | 玩家: 0/50 | 版本: PaperSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.227.112:201 | 玩家: 3/200 | 样例: [{"name":"Nigh","id":"b25b146c-4a85-3f24-8f65-a65fea64c3c6"},{"name":"AndroidJAVAhmcl","id":"a5dcb551-baef-3221-8a0b-1e0555775e6e"},{"name":"sodium_246","id":"0683790d-845d-331b-9694-d1b4c1c66886"}] | 版本: PaperSpigot 1.8.8 (47) | MOTD: 等待中..
+MC | 222.187.227.112:301 | 玩家: 10/100 | 样例: [{"name":"JangBei","id":"0ad5885a-192f-3167-be5c-0fbfe18b1612"},{"name":"Seven_Feather","id":"644a7a7b-5479-3f7d-8dd3-f308a4e884e9"},{"name":"Avava_AvA","id":"1bf47fd1-e650-3d8f-9010-c03cc6b3960b"},{"name":"kunasd","id":"f59b0015-39cf-3059-b538-8041ae3f88f8"},{"name":"Dissociate","id":"c09c4c4e-9ade-3726-9e7d-3709dac97d2e"},{"name":"gezizy","id":"cdd3e5c0-0d3a-306d-80fe-4d63f78a5e5d"},{"name":"tete4654","id":"a4a9443e-9fad-3daa-b5b7-605344235758"},{"name":"RedJuice","id":"5d1a74ad-98f1-312b-aa7d-e95e3d878e45"},{"name":"xiaokai_ovo","id":"46485a5b-f84c-3d3e-8f40-d5edb51eaac7"},{"name":"_XueLin_","id":"22da7d9e-c4ac-3fba-aa71-c670ed5fe41f"}] | 版本: Spigot 1.8.8 (47) | MOTD: 
+MC | 222.187.227.112:401 | 玩家: 0/1000 | 版本: PaperSpigot 1.8.8 (47) | MOTD: 
+MC | 222.187.227.112:501 | 玩家: 0/100 | 版本: Spigot 1.8.8 (47) | MOTD: 
+MC | 222.187.227.112:601 | 玩家: 1/100 | 样例: [{"name":"_lazy_fish_","id":"24634ad9-773c-3acb-910d-6ea64b2f9710"}] | 版本: Spigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.227.112:701 | 玩家: 2/50 | 样例: [{"name":"foam","id":"e45b9445-f887-36f8-98e5-d6e18038c425"},{"name":"lajifidfi","id":"66b62a57-207f-3bd4-9f8c-3f63c40394af"}] | 版本: PaperSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.227.112:3001 | 玩家: 0/50 | 版本: PaperSpigot 1.8.8 (47) | MOTD: 
+MC | 222.187.227.112:3004 | 玩家: 1/20 | 样例: [{"name":"jjnnttmm","id":"7daba797-5ff3-319d-a589-1c9e896cd2c0"}] | 版本: PaperSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.227.112:3021 | 玩家: 0/100 | 版本: Spigot 1.8.8 (47) | MOTD: 
+MC | 222.187.227.112:3031 | 玩家: 0/200 | 版本: PaperSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.227.112:3202 | 玩家: 11/100 | 样例: [{"name":"safedog","id":"066250af-4b31-3591-baa4-e9be8382cbbf"},{"name":"scuj","id":"090f98b2-0ee9-35b0-a852-8ea76a0de8a4"},{"name":"Dimond_CN","id":"8db94e53-8fbb-30ea-850c-9ad4893c3c41"},{"name":"Monasd_Hiu","id":"6ecc6840-7445-3efc-b284-c6f47feb4192"},{"name":"baixiaobai_","id":"e3be833f-0a3b-326f-b787-11c34c0a4aad"},{"name":"heiyaoshi_log","id":"5fb48470-e9f5-3296-b5a8-58e13197cc95"},{"name":"_Pingguo_","id":"1aa1a3c1-468d-371e-a58d-8e3b2e0ff52e"},{"name":"Powered_Rail","id":"02c216fb-7b2c-3d64-9d23-c0aea6f652dd"},{"name":"DCX","id":"e61f4644-4d13-3878-b7a1-48a0fcefa273"},{"name":"ababaa","id":"c0fea917-9160-31cb-8fee-20ada23b28bf"},{"name":"sodium_246","id":"0683790d-845d-331b-9694-d1b4c1c66886"}] | 版本: PaperSpigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.227.112:4002 | 玩家: 0/20 | 版本: Spigot 1.8.8 (47) | MOTD: 等待中...
+MC | 222.187.227.112:4001 | 玩家: 0/64 | 版本: PaperSpigot 1.8.8 (47) | MOTD: 等待中...
+HTTP | 222.187.227.112:5357 | 状态码: 503
+HTTP | 222.187.227.112:6379 | 状态码: -1
+TCP | 222.187.227.112:7000
+HTTP | 222.187.227.112:7005 | 状态码: 401
+HTTP | 222.187.227.112:8012 | 状态码: 401
+TCP | 222.187.227.112:8443
+HTTP | 222.187.227.112:8800 | 状态码: 404
+HTTP | 222.187.227.112:8888 | 状态码: 404
+HTTP | 222.187.227.112:13145 | 状态码: -1
+HTTP | 222.187.227.112:20001 | 状态码: 200
+MC | 222.187.227.112:20012 | 玩家: 2/1500 | 样例: [{"name":"§2§l战之躯服务器","id":"00000000-0000-0000-0000-000000000000"},{"name":"§2§l----------------","id":"00000000-0000-0000-0000-000000000000"},{"name":"§2§l在线:2","id":"00000000-0000-0000-0000-000000000000"},{"name":"§2§l最大玩家数:1500","id":"00000000-0000-0000-0000-000000000000"},{"name":"§2§l交流群:","id":"00000000-0000-0000-0000-000000000000"},{"name":"§2§l224952106","id":"00000000-0000-0000-0000-000000000000"},{"name":"§2§l?G-ONE?","id":"00000000-0000-0000-0000-000000000000"},{"name":"§2§l----------------","id":"00000000-0000-0000-0000-000000000000"}] | 版本: §f§2§l战之躯服务器§r§2?G-ONE?>>>                             §2§l[2/1500] (-1) | MOTD: {"extra":[{"color":"gray","text":"§2§lAlphaV1.2末日猎杀更新 §2§l|"},{"color":"gray","text":" §2§l1.12.2 §2§l| §2§lBODY OF WAR\n§2§l>>>>>>>>>>>>>>>>进入战之躯服务器>>>>>>>>>>>>>>>>"}],"text":""}
+TCP | 222.187.227.112:20022
+TCP | 222.187.227.112:20042
+TCP | 222.187.227.112:20062
+TCP | 222.187.227.112:20074
+TCP | 222.187.227.112:20082
+MC | 222.187.227.112:20092 | 玩家: 6/69 | 样例: [{"name":"ljh_hutao","id":"9066efc9-69fb-330c-939f-1bcadc18a3c4"},{"name":"esfgt","id":"46736fa1-6d88-390f-9a94-f457fc612a66"},{"name":"inexistence","id":"e9e3892b-76b2-300e-9671-b93420446923"},{"name":"123andlu","id":"5f76cff3-cff8-3110-91b8-2c09c7de1487"},{"name":"123and4","id":"0f34b50b-aeaa-3707-b88c-ae7c110f2489"},{"name":"zhanghanyuan","id":"3469364a-5d85-3241-943b-37b330d1f300"}] | 版本: Purpur 1.17.1 (756) | MOTD: {"extra":[{"color":"blue","text":"这里是 "},{"color":"red","bold":true,"text":"LTG Cloud Network Server"},{"text":"\n"},{"color":"red","underlined":true,"text":"群","italic":true},{"color":"red","underlined":true,"text":"号","italic":true},{"color":"red","underlined":true,"text":"8","italic":true},{"color":"red","underlined":true,"text":"2","italic":true},{"color":"red","underlined":true,"text":"6","italic":true},{"color":"red","underlined":true,"text":"4","italic":true},{"color":"yellow","underlined":true,"text":"0","italic":true},{"color":"yellow","underlined":true,"text":"5","italic":true},{"color":"yellow","underlined":true,"text":"9","italic":true},{"color":"yellow","underlined":true,"text":"9","italic":true},{"color":"yellow","underlined":true,"text":"6","italic":true},{"underlined":true,"text":" ","italic":true},{"color":"yellow","underlined":true,"text":"欢","italic":true},{"color":"green","underlined":true,"text":"迎","italic":true},{"color":"green","underlined":true,"text":"加","italic":true},{"color":"green","underlined":true,"text":"群","italic":true},{"color":"green","underlined":true,"text":"讨","italic":true},{"color":"green","underlined":true,"text":"论","italic":true}],"text":""}
+TCP | 222.187.227.112:20093
+TCP | 222.187.227.112:20011
+TCP | 222.187.227.112:20021
+TCP | 222.187.227.112:20041
+TCP | 222.187.227.112:20061
+TCP | 222.187.227.112:20071
+TCP | 222.187.227.112:20081
+TCP | 222.187.227.112:20091
+TCP | 222.187.227.112:23825
+MC | 222.187.227.112:25565 | 玩家: 82/2022 | 版本: Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x (47) | MOTD: {"extra":[{"text":"                "},{"color":"aqua","bold":true,"text":"KKCraft "},{"color":"gray","text":"& "},{"color":"yellow","bold":true,"text":"MC.163MC.CN - "},{"color":"light_purple","text":"[1.7-1.19"},{"color":"light_purple","text":"]           "},{"color":"gray","text":"?"},{"color":"red","underlined":true,"text":"福兔迎春"},{"color":"gray","text":"? "},{"color":"white","text":"服务器进行网络升级,优化游戏体验!"}],"text":""}
+TCP | 222.187.227.112:49664
+TCP | 222.187.227.112:49665
+TCP | 222.187.227.112:49666
+TCP | 222.187.227.112:49669
+TCP | 222.187.227.112:49670
+TCP | 222.187.227.112:49668
+TCP | 222.187.227.112:49667
+TCP | 222.187.227.112:49677

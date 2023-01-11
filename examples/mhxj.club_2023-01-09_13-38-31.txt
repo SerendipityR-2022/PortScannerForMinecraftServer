@@ -1,0 +1,18 @@
+HTTP | 222.187.232.247:80 | 状态码: 404
+HTTP | 222.187.232.247:443 | 状态码: 404
+HTTP | 222.187.232.247:555 | 状态码: -1
+HTTP | 222.187.232.247:584 | 状态码: -1
+HTTP | 222.187.232.247:888 | 状态码: 403
+HTTP | 222.187.232.247:801 | 状态码: 200
+MC | 222.187.232.247:5008 | 玩家: 1/100 | 样例: [{"name":"qqqqqqqqqqqq783","id":"cc3671e6-c93d-3f6e-ad1a-eb4dc7d448b4"}] | 版本: Spigot 1.8.8 (47) | MOTD: A Minecraft Server
+MC | 222.187.232.247:5331 | 玩家: 0/20 | 版本: Spigot 1.8.8 (47) | MOTD: §c                     §3Mhxj§f.§bClub §c正版验证服务器
+§c           §7请先在大厅输入/zb start 开始验证！
+MC | 222.187.232.247:8848 | 玩家: 0/20 | 版本: Akarin 1.12.2 (47) | MOTD: {"text":"?§cJust a Prison Server - wdnmd"}
+MC | 222.187.232.247:25565 | 玩家: 69/2023 | 版本: Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x (47) | MOTD: {"extra":[{"extra":[{"color":"dark_green","extra":[{"color":"green","extra":[{"color":"dark_aqua","extra":[{"color":"white","extra":[{"color":"dark_aqua","extra":[{"color":"gray","extra":[{"color":"aqua","text":"1"},{"color":"aqua","text":"."},{"color":"aqua","text":"8"},{"color":"aqua","text":"-"},{"color":"aqua","text":"1"},{"color":"aqua","text":"."},{"color":"aqua","text":"1"},{"color":"aqua","text":"9"},{"color":"aqua","text":"."},{"color":"aqua","text":"3"},{"text":" "},{"color":"yellow","extra":[{"color":"dark_green","text":"?"}],"text":"?"}],"text":"? "}],"text":"Club "}],"text":"."}],"text":"Mhxj"}],"text":"? "}],"text":"?"}],"text":"              "},{"text":"\n"},{"color":"aqua","extra":[{"color":"yellow","text":"新"},{"color":"yellow","text":"年"},{"color":"yellow","text":"快"},{"color":"gold","text":"乐"},{"color":"gold","text":"！"},{"color":"gold","text":"兔"},{"color":"gold","text":"年"},{"color":"gold","text":"大"},{"color":"gold","text":"吉"},{"color":"gold","text":"！"}],"text":"ヽ(??▽?)ノ        "}],"text":""}
+HTTP | 222.187.232.247:27192 | 状态码: 302
+TCP | 222.187.232.247:39100
+TCP | 222.187.232.247:39576
+TCP | 222.187.232.247:39746
+HTTP | 222.187.232.247:49200 | 状态码: 200
+MC | 222.187.232.247:55680 | 玩家: 0/114514 | 版本: Purpur 1.17.1 (47) | MOTD: {"text":"OPEN!"}
+TCP | 222.187.232.247:65221
