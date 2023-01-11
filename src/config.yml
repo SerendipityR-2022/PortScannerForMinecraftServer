@@ -1,0 +1,26 @@
+############################
+#  PortScannerForMS        #
+#    Made by SerendipityR  #
+############################
+
+CfgVer: 2
+
+PortScannerSettings:
+  # 扫描端口范围
+  MinPort: 1
+  MaxPort: 65535
+  # 为防止TCP阻塞设置扫描合理间隔 (毫秒)
+  ScanDelay: 10
+  # 为防止服务商屏蔽扫描设置合理线程数
+  ScanThreads: 15
+  # 端口检测超时时间 (毫秒)
+  ConnectTimeout: 1000
+  ReadTimeout: 10000
+  # 扫描具有有效MOTD回应的Minecraft服务器
+  CheckMinecraftServer: true
+  # 扫描端口上的其他服务
+  CheckOtherServices: true
+  # 输出结果保存位置
+  OutputFile: "%address%_%time%.txt"
+  # 输出错误信息
+  ShowFails: false
